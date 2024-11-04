@@ -19,6 +19,7 @@ public class Main
 
 
         //You will need to make sure your chatbot continues looping until it sees certain keywords from the user such as "bye","goodbye"...
+        // do you need a while loop or a for loop?
           
         //Consider: How do I check what the user says and compare it to my keywords? What methods do I have?
              
